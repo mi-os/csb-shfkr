@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://mi-os.github.io/csb-shfkr/static/js/main.caeed5fa.chunk.js",
+    "main.js.map": "https://mi-os.github.io/csb-shfkr/static/js/main.caeed5fa.chunk.js.map",
+    "runtime-main.js": "https://mi-os.github.io/csb-shfkr/static/js/runtime-main.ea8bcb58.js",
+    "runtime-main.js.map": "https://mi-os.github.io/csb-shfkr/static/js/runtime-main.ea8bcb58.js.map",
+    "static/js/2.95890c64.chunk.js": "https://mi-os.github.io/csb-shfkr/static/js/2.95890c64.chunk.js",
+    "static/js/2.95890c64.chunk.js.map": "https://mi-os.github.io/csb-shfkr/static/js/2.95890c64.chunk.js.map",
+    "index.html": "https://mi-os.github.io/csb-shfkr/index.html",
+    "static/js/2.95890c64.chunk.js.LICENSE.txt": "https://mi-os.github.io/csb-shfkr/static/js/2.95890c64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8bcb58.js",
+    "static/js/2.95890c64.chunk.js",
+    "static/js/main.caeed5fa.chunk.js"
+  ]
+}
